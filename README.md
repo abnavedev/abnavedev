@@ -7,7 +7,6 @@
 
 export PATH=$PATH:/tools/powerpc64le-power8--glibc--stable-2020.08-1/bin
 
-..
 export PATH=$PATH:/home/abhis/powerpc64le-power8--glibc--stable-2020.08-1/bin
 
 
